@@ -84,9 +84,6 @@ CozyCredit implements a defense-in-depth strategy with multiple security layers:
 - **Data Loss Prevention**: Controls to prevent unauthorized data exfiltration
 ### Certificate Management
 Certificate management is a critical aspect of CozyCredit's security framework:
-- **Automated Certificate Monitoring**: Continuous monitoring of all SSL/TLS certificates
-- **Expiry Alerts**: Proactive notifications for certificates nearing expiration
-- **Renewal Workflow**: Streamlined process for certificate renewal and deployment
 - **Validation Checks**: Regular verification of certificate validity and configuration
 - **Certificate Pinning**: Protection against man-in-the-middle attacks
 - **Extended Validation Certificates**: Enhanced verification for critical services
